@@ -1,6 +1,6 @@
 # name_card
 
-A new Flutter application.
+Business card template using flutter.
 
 ## Getting Started
 
